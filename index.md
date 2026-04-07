@@ -14,6 +14,7 @@
 >"To live is to learn to die"
 
 ### One of my favorite pro skateboarders is Aimu Yamazuki, check out his street part!
+![AIMU](/CSELAB1/aimu.jpg)
 [YouTube Link](https://www.youtube.com/watch?v=mdwI9Zz8BfA)
 
 ### The Read Me
