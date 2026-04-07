@@ -2,7 +2,7 @@
 
 ## **Hello, My name is Aaron Thung!**
 
-[JUMP TO THE LIST](#LIST)
+[JUMP TO THE LIST](# list)
 
 ### During my free time I enjoy reading Manga. I've recently really enjoyed Friren.
 ![Friren](/CSELAB1/Frieren_Beyond_Journey's_End.jpg)
@@ -17,7 +17,7 @@
 [YouTube Link](https://www.youtube.com/watch?v=mdwI9Zz8BfA)
 
 ### The Read Me
-[RREADME](README.MD)
+[RREADME](README.md)
 
 # LIST
 
@@ -27,9 +27,9 @@
 3. CLAUDE 
 
 ## Quarter GOALS
-* [] Do Well in my Classes
-* [] Get a J*b
-* [] Learn a new Skate Trick
+* [ ] Do Well in my Classes
+* [ ] Get a J*b
+* [ ] Learn a new Skate Trick
 * [x] Reach Unc Status
 
 ## Coding Languages I've Used
