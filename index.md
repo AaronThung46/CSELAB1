@@ -2,7 +2,7 @@
 
 ## **Hello, My name is Aaron Thung!**
 
-[JUMP TO THE LIST](#LIST)
+[JUMP TO THE LIST](#list)
 
 ### During my free time I enjoy reading Manga. I've recently really enjoyed Friren.
 ![Friren](/CSELAB1/Frieren_Beyond_Journey's_End.jpg)
